@@ -11,6 +11,10 @@ Just build+run to have simple form to create your Realm objects using .thrift fi
 ![how it looks like](https://user-images.githubusercontent.com/7135226/50261086-9d369300-0413-11e9-8fc0-13ebc6993d7c.png)
 
 
+It uses: [thriftfinder](https://github.com/Maxatma/ThriftFinder), [thriftconvertor](https://github.com/Maxatma/ThriftConvertor), [thriftbase](https://github.com/Maxatma/ThriftBase)
+
+Example of usage is here: [iOS App](https://github.com/Maxatma/Test-ThriftToRealm-iOS-App)
+
 
 ## Contacts
 
