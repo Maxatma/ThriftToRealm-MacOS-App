@@ -1,6 +1,6 @@
 //
 //  FileManagerHelper.swift
-//  KZCodeScript
+//
 //
 //  Created by Alexander Zaporozhchenko on 9/29/17.
 //  Copyright © 2017 Alexandr. All rights reserved.
