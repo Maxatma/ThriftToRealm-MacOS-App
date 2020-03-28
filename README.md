@@ -18,5 +18,5 @@ Example of usage is here: [iOS App](https://github.com/Maxatma/Test-ThriftToReal
 
 ## Contacts
 
-Aleksandr Zaporozhchenko
+Oleksandr Zaporozhchenko
 [[github]](https://github.com/Maxatma)  [[gmail]](mailto:maxatma.ids@gmail.com)  [[fb]](https://www.facebook.com/profile.php?id=100008291260780)  [[in]](https://www.linkedin.com/in/maxatma/)
