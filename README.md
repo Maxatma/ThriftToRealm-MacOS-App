@@ -1,6 +1,7 @@
 # ThriftToRealm-MacOS-App
+Use this to create you Realm files for Thrift provided classes. Don't write it by hands, just run the script.
 
-
+## Usage
 Just build+run to have simple form to create your Realm objects using .thrift file:
 - choose .thrift file ( like [this](https://github.com/Maxatma/TPerfectServer-example/blob/master/test.thrift) )
 - choose generated files destination
